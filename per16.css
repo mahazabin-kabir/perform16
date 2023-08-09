@@ -1,0 +1,15 @@
+a{
+             color: black;       
+text-decoration-line: underline;
+text-decoration: wavy;
+text-decoration-color: red;
+text-decoration-thickness: 5px;
+}
+
+p{
+                    text-indent: 30px;
+                    letter-spacing: 3px;
+                    line-height: 1.5;
+                    word-spacing: 5px;
+                    font-family:cursive;
+}
